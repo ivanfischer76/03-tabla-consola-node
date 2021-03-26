@@ -6,7 +6,7 @@ Programa en node que muestra la tabla de multiplicar de un número desde un núm
 node app -b=[base] -i=[inicio] -f=[fin] -l
 ```
 * En la carpeta ```tablas``` se almacenarán las tablas generadas en formato ```.txt```
-
+***
 ```
 Opciones:
       --help     Muestra ayuda                                  [booleano]
